@@ -1,8 +1,11 @@
 jhfgjsdfghsgfhsdgf
 
-<<<<<<< HEAD
+
 hgdhsdghasg
-=======
+
 
 THIS IE CHERRY TEST
->>>>>>> 0f0333e... CHERRY COMMIT
+
+
+HIII
+
