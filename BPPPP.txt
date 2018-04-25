@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 HI THis test PULLLLL edited-giris
 
 Hi Vishakhaaaa
@@ -8,3 +9,8 @@ This is merge changes.
 
 This is bpatil
 This is Merge testing
+=======
+HI THis test PULLLLL. HIIIIII
+
+This testoing mergeeeeee
+>>>>>>> testing
